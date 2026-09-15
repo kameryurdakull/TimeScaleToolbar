@@ -1,0 +1,21 @@
+{
+  "name": "Kamer.TimeScaleToolbar.EditorTests",
+  "rootNamespace": "Kamer.TimeScaleToolbar.Tests",
+  "references": [
+    "Kamer.TimeScaleToolbar.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "noEngineReferences": false
+}

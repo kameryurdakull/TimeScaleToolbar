@@ -1,0 +1,24 @@
+{
+  "name": "com.kamer.time-scale-toolbar",
+  "version": "1.0.0",
+  "displayName": "Time Scale Toolbar",
+  "description": "A compact Scene view overlay for inspecting, adjusting, and resetting Time.timeScale during Play Mode.",
+  "unity": "6000.0",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kameryurdakull/TimeScaleToolbar.git"
+  },
+  "documentationUrl": "https://github.com/kameryurdakull/TimeScaleToolbar#readme",
+  "changelogUrl": "https://github.com/kameryurdakull/TimeScaleToolbar/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/kameryurdakull/TimeScaleToolbar/blob/main/LICENSE.md",
+  "author": {
+    "name": "Kamer"
+  },
+  "keywords": [
+    "editor",
+    "scene-view",
+    "time-scale",
+    "toolbar"
+  ]
+}
